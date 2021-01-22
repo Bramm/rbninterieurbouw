@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.rbninterieurbouwbe.webhosting.be
-        username: rbninterieurbouwbe@rbninterieurbouwb
+        username: rbninterieurbouwbe@rbninterieurbouwbe
         password: ${{ secrets.ftp_password }}
