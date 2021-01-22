@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.rbninterieurbouwbe.webhosting.be
         username: rbninterieurbouwbe@rbninterieurbouwbe
-        password: ${{ secrets.ftp_password }}
+        PASSWORD: ${{ secrets.PASSWORD }}
