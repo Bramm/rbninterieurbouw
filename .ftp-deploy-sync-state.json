@@ -1,0 +1,537 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1612354995637,
+    "data": [
+        {
+            "type": "file",
+            "name": "LICENSE.txt",
+            "size": 17128,
+            "hash": "d7b98629668e4968281c7083336bc292ae55e2ca3a5469072b9657dd2c1a634e"
+        },
+        {
+            "type": "file",
+            "name": "README.txt",
+            "size": 877,
+            "hash": "e2c4058a624219bc70ce59ada98afff05f6db22afb0faa99a84bb9c234b3b126"
+        },
+        {
+            "type": "file",
+            "name": "android-chrome-192x192.png",
+            "size": 5562,
+            "hash": "4a0662e25490cd460b97fb2ce8c74bc04b7032be1c43a15b4d1a5b543fe5c49f"
+        },
+        {
+            "type": "file",
+            "name": "android-chrome-512x512.png",
+            "size": 17795,
+            "hash": "49463d82dc01e1410d297a46b09a6941cff3ad366a6cc5126c36383f203c7434"
+        },
+        {
+            "type": "file",
+            "name": "apple-touch-icon.png",
+            "size": 5166,
+            "hash": "0e4f21f72fd97215bb70fed9fd60d8a7d8aaf32ad2273fb595b43d65b2b69de4"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "elements.html",
+            "size": 18850,
+            "hash": "a6b28454bb75e595b0dbce70392910921c248d7d0208b79e75ca101e91ce2cbb"
+        },
+        {
+            "type": "file",
+            "name": "favicon-16x16.png",
+            "size": 309,
+            "hash": "465aaaa6f07bda9f54b703a6a48b4bf708893e7bc392eb8089db16720e55e677"
+        },
+        {
+            "type": "file",
+            "name": "favicon-32x32.png",
+            "size": 619,
+            "hash": "56ab41607a2b8fae71dd351475a9f8deac088e0194d3c837c005a53a11c35d87"
+        },
+        {
+            "type": "file",
+            "name": "favicon.ico",
+            "size": 15406,
+            "hash": "1665fc12824599fdd61e31b25fccce9b7811df7e85138baec3090bc5037c8956"
+        },
+        {
+            "type": "file",
+            "name": "generic.html",
+            "size": 4851,
+            "hash": "0fce4e624942921799b3ca13f064a7922e9a6787032df98821d538dc5da2e8f3"
+        },
+        {
+            "type": "folder",
+            "name": "images"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 6250,
+            "hash": "02732241516112223b71b6c71ab2c27fb0d030bffcadce6d2089808b459de500"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "folder",
+            "name": "assets/sass"
+        },
+        {
+            "type": "folder",
+            "name": "assets/webfonts"
+        },
+        {
+            "type": "file",
+            "name": "images/img01.jpg",
+            "size": 30478,
+            "hash": "9b74b3d92b64e9ca9efedd22978acc2e6edaa88741aa4ca0c3d58d1d87023af8"
+        },
+        {
+            "type": "file",
+            "name": "images/img02.jpg",
+            "size": 6897,
+            "hash": "46c7afb1ed61ff9e478bff3c2832837cc70928b6189048b96aceaef8df59d1b9"
+        },
+        {
+            "type": "file",
+            "name": "images/img03.jpg",
+            "size": 5417,
+            "hash": "093481f98a00e6ebeb32dbb78cbeb539c7694728ebee6377c6348cbc79d7ec25"
+        },
+        {
+            "type": "file",
+            "name": "images/img04.jpg",
+            "size": 6361,
+            "hash": "43c76c5712d4d359c48567ba3b5358f9b211979702ea4860dbee51f3e1398e19"
+        },
+        {
+            "type": "file",
+            "name": "images/logo.png",
+            "size": 29075,
+            "hash": "d40a41a59cde6fdd2c3ff0ff8a9fd1f30ee87b9073ade7ca6eece00c2f5a7d06"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom001.jpg",
+            "size": 7673,
+            "hash": "f52e5ab718116aefe8a25590049949cc2b8822e890301e5e563bc66b2e8b322c"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom002.jpg",
+            "size": 5971,
+            "hash": "08a9f5f53bf19a1307c28bf8785deda6b274d7767cc031ab01808a8e7aa91b05"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom003.jpg",
+            "size": 6902,
+            "hash": "5f3ffefb31b928d1edcb9176e97dd4263c6c5798ce76020de6b7eb7ae8f43b26"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom004.jpg",
+            "size": 7381,
+            "hash": "6f7c1a06f5f9eae8086400917f048b755c05ebf8a58f506e02c5294271cace1c"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom005.jpg",
+            "size": 6453,
+            "hash": "c713f5d46793225b4cc51fe42e9a89b03cdec200094f2abbe1ec1df6c3d6cbfb"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom006.jpg",
+            "size": 5213,
+            "hash": "184e0bf0e97d35f30cb543085848764826400791f35e0705d3a53e1c03c4a8b4"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom007.jpg",
+            "size": 5250,
+            "hash": "03a07c3896c26b0c8449b34f944c767a6bc6b965053dc7dd9af78524e6e3e8b6"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom008.jpg",
+            "size": 10179,
+            "hash": "fc8bff2f3facade6700bc6efd7434c6b69d347e52c80f2bc4b7ba9c52c4be198"
+        },
+        {
+            "type": "file",
+            "name": "images/showroom009.jpg",
+            "size": 8067,
+            "hash": "a679f3765cbfabf89e4bda4329b089c0d6180c64cfd927ca221420c24c39e3af"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/fontawesome-all.min.css",
+            "size": 55967,
+            "hash": "533143d96607d94d5d4292838e364aef656d3de58fe74368263776eab9c07542"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css/images"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/main.css",
+            "size": 67693,
+            "hash": "e939df8eb48d06a7584685860aad5d8c77ee78ee9edaa168ffa8cbdb8a704bd1"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/noscript.css",
+            "size": 339,
+            "hash": "f22765cc7959f7052b0290a7fd8b5f23188c1689c69ca373990c2402821e565b"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/breakpoints.min.js",
+            "size": 2439,
+            "hash": "309febcd6d6e0cf092201532215f03a6a9f30b30f26203272a4861d704e7cd52"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/browser.min.js",
+            "size": 1851,
+            "hash": "87910d5ed0053d90caf83230a2f1811d8679815da01f7bdec7548e776d7f04c4"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/jquery.min.js",
+            "size": 88145,
+            "hash": "0925e8ad7bd971391a8b1e98be8e87a6971919eb5b60c196485941c3c1df089a"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/jquery.scrollex.min.js",
+            "size": 2257,
+            "hash": "fc25b75fb3fc8b42756413be387e0d7a602813125283d2384551961d73ea784e"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/jquery.scrolly.min.js",
+            "size": 831,
+            "hash": "8b6571ea2c3631ff50bb4b96e7f9081c6e33ebaadef9cb2ca5955d5e0b625a02"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/main.js",
+            "size": 2750,
+            "hash": "a05ce2241de6131d25627c8491632b55155c90a71b62640a9a85bcabf786e1bf"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/util.js",
+            "size": 12433,
+            "hash": "c2e1e72b0de356f6ce184e3af4fa8ab6590a2581162905a27d77886b2d960e00"
+        },
+        {
+            "type": "folder",
+            "name": "assets/sass/base"
+        },
+        {
+            "type": "folder",
+            "name": "assets/sass/components"
+        },
+        {
+            "type": "folder",
+            "name": "assets/sass/layout"
+        },
+        {
+            "type": "folder",
+            "name": "assets/sass/libs"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/main.scss",
+            "size": 1655,
+            "hash": "ece932ad4df9a665f203e040b568ffd64a2a05c890a0b562423919064eba2feb"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/noscript.scss",
+            "size": 475,
+            "hash": "a7b5cce37e3c37125f022800a4c5b402455a376f5c159e836e9a8311b3aabff6"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-brands-400.eot",
+            "size": 129352,
+            "hash": "931d173390b901b84b133796a2e42e54b82a4d60fc7f0baa23e05742af9793e8"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-brands-400.svg",
+            "size": 689922,
+            "hash": "85eee11562ca8330dd6e3e7b726309ab95110e062d72c759abc83f897b8ed074"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-brands-400.ttf",
+            "size": 129048,
+            "hash": "d7746d2966e30323266a9f7ea24be80940f7a0207a0b91dde1669f3b3bdecd33"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-brands-400.woff",
+            "size": 87352,
+            "hash": "ef7234f1e9d303d2e42a209c547c217b90afa49d60502d04f1b14c906efc02d1"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-brands-400.woff2",
+            "size": 74508,
+            "hash": "1f49b8706547682e2c5ed6642a2f2dcbd287da458314b967c60d774aa7edb473"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-regular-400.eot",
+            "size": 34388,
+            "hash": "da05e5ee7c75c965efb151a6e87ab5589b8023f246f698c1d14946414bc31c90"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-regular-400.svg",
+            "size": 144451,
+            "hash": "e14de0404bcbe28ac413bd4c992f552af250da30823e635ab9a7656e50e77bc8"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-regular-400.ttf",
+            "size": 34092,
+            "hash": "4e2fc1d3828b93e7e943c8017a542b0ad00f6333d28748658bb0697de23fd52e"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-regular-400.woff",
+            "size": 16804,
+            "hash": "684157e40f7ee2429707a23d5b77d2c71c5d23f26a9d82839275ff984d13053b"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-regular-400.woff2",
+            "size": 13580,
+            "hash": "6a16c04229bc2b4da226eb97e68d94f49ba6437b7b5e16c14a101b21a29384e9"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-solid-900.eot",
+            "size": 192116,
+            "hash": "d5342ae679d7064d475403ce5fe05d80f1a0abe5881f729ee0e3272a9c355f3b"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-solid-900.svg",
+            "size": 839388,
+            "hash": "4ee1b170ff51b7fda11acef551d1ef492c0ebc1aff8e5712d3e30fcbb835776d"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-solid-900.ttf",
+            "size": 191832,
+            "hash": "9313de7304bef452ff5ac93e0f9ca48c3971d2fbb502c3fa1e2c2ea1f91ad853"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-solid-900.woff",
+            "size": 98020,
+            "hash": "c1450cddfd98668e6e593e2d26f11b4c43faaccb5f033b0b50ea6f1ce7bf4b58"
+        },
+        {
+            "type": "file",
+            "name": "assets/webfonts/fa-solid-900.woff2",
+            "size": 75440,
+            "hash": "cd398be1a91817126cef10224738e624358edf6f08043abad7e60c1aaeccc8d0"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/images/overlay.png",
+            "size": 20100,
+            "hash": "0d8bb43605a20138d45cbdb530fc70355d26748fd8ebd6bfe121463139b5523d"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/base/_page.scss",
+            "size": 1146,
+            "hash": "a635fcf785cfecb4fbc06d43286f057d83c293bb341b7380cba1ffabb9478127"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/base/_reset.scss",
+            "size": 1567,
+            "hash": "245a821f12108ad42428f81ae0c0f4b10364734157102855e10f774a66d22516"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/base/_typography.scss",
+            "size": 3604,
+            "hash": "3e54c9a2b2f544fe2f34d642e9f185f356d6ecd05492d3b2eb86f46b31a97281"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_actions.scss",
+            "size": 1786,
+            "hash": "0e3c6d973dd50023bb1716fab88a5e9c28b37a9bd35f0834aa703faa99a6ee5e"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_box.scss",
+            "size": 631,
+            "hash": "71f7242e0959dcca87d418b6bfa6e8044fb2f2f47973234ccda5def8ac26cf51"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_button.scss",
+            "size": 2038,
+            "hash": "94b6e64a8f3196053ff235dcb51efd62759cffcedbddecca5db96557948a0fa8"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_features.scss",
+            "size": 1282,
+            "hash": "9edf9209b9397bf15f5fe59b76561512c5f5ab92a8a5443bf201241c0b1d906b"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_form.scss",
+            "size": 4514,
+            "hash": "0022b45480c3785951df42f62ad2a4c9d4f88f3258df36d23534e5313ec1fc09"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_icon.scss",
+            "size": 2388,
+            "hash": "8b254259b371b2c2dc7b857fcbfdcc4ef831b43bbd3a0e56e5e3048c9b7a62d3"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_icons.scss",
+            "size": 353,
+            "hash": "f0f4fbc349abf5952d274796888f1024a741e0bf5a0ce0bed4b0271451774a21"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_image.scss",
+            "size": 883,
+            "hash": "e03b648ee9fb72cfb274ea4ca12d80f9bd2eeba67ed9e76caff1d81e4de784af"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_list.scss",
+            "size": 1345,
+            "hash": "09a46cc15081045f1bb619f9bf8a3932ea9d072e34667509e01c6815362ba095"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_row.scss",
+            "size": 627,
+            "hash": "f551282eed17504d3fd42d97e807e692faa8b6cd46ec65fd356075f808f21415"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_section.scss",
+            "size": 1679,
+            "hash": "d9b952a89bee028e6ee5e60426c95be220fac9db78a04338da35f97434165956"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_spotlight.scss",
+            "size": 1625,
+            "hash": "1191099a83336af858e5b5c8e460635c84aa76529e91a4ce0fe1663d4addd0b1"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_statistics.scss",
+            "size": 2017,
+            "hash": "716d8ef0fad00d8616f083f8376a2c6f503fe390c662244302bea35afc24364b"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/components/_table.scss",
+            "size": 1665,
+            "hash": "0d3bd0e2ccca281af66a2e931f457e1bec84f525d094d183dec9da132e874978"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/layout/_footer.scss",
+            "size": 1303,
+            "hash": "2b41bfd15354d772ef5176026d39af370406534a3b761a622c7964bed0ab516d"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/layout/_header.scss",
+            "size": 2107,
+            "hash": "4153ae44a187882b5f41869f2b7b69cc9387fe9b0a20a5e66f3c944a87b05bd1"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/layout/_main.scss",
+            "size": 2007,
+            "hash": "0fdde2145fd0f27e94e6750510fd202ea4e824797bd5c5bb4629e0a3a25f2525"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/layout/_nav.scss",
+            "size": 2074,
+            "hash": "0a3f54c59ff6334233227a7d044dfc9de1d1a564d3e7edd126e7fde3a3adb2b7"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/layout/_wrapper.scss",
+            "size": 403,
+            "hash": "f94800c0ed48d453bbb13895fec291afeeb6bf3e70ce498fea63fe1918512477"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/libs/_breakpoints.scss",
+            "size": 4577,
+            "hash": "acda021bb809760083b40a54e76454bc58a56a2ec90965ea5a6820e2fb67f286"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/libs/_functions.scss",
+            "size": 1957,
+            "hash": "fc832d9ccc89117bb05beed1e5fb328e7f909845d2220a1060375142f51b7e5d"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/libs/_html-grid.scss",
+            "size": 2840,
+            "hash": "423fd36f530e34b329996d06b0db7c8543fc2034d0c12d479246fc0e498cc662"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/libs/_mixins.scss",
+            "size": 2218,
+            "hash": "63a02894ddc14717b0d58982ba6220f58bf20c3b9fdfc58f70a282168cb35c85"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/libs/_vars.scss",
+            "size": 1217,
+            "hash": "6ff7a91491153c2ff3189cdb3ec8ed3f07fa2aa7e588e5b220cb1ba14bce934b"
+        },
+        {
+            "type": "file",
+            "name": "assets/sass/libs/_vendor.scss",
+            "size": 7355,
+            "hash": "f081f8ff029549e642a7ff5a615752e1e9032258b635abcef39f59e747d39d12"
+        }
+    ]
+}
